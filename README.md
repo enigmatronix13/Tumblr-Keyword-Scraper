@@ -13,7 +13,7 @@ A Python-based Tumblr scraper that collects posts containing specified keywords 
 
 ## Setup
 
-### Clone the repository   
+### Clone the Repository   
 ```bash
 git clone https://github.com/enigmatronix13/Tumblr-Keyword-Scraper.git
 ```
